@@ -106,7 +106,7 @@
     "exegesis-express": "^2.0.0",
     "exit-code": "^1.0.2",
     "express": "^4.16.4",
-    "filesize": "^6.1.0",
+    "filesize": "^6.4.0",
     "fs-extra": "^5.0.0",
     "glob": "^7.1.2",
     "google-auth-library": "^6.1.3",
