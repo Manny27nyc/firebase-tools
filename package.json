@@ -123,7 +123,7 @@
     "node-fetch": "^2.6.1",
     "open": "^6.3.0",
     "ora": "^3.4.0",
-    "portfinder": "^1.0.23",
+    "portfinder": "^1.0.25",
     "progress": "^2.0.3",
     "proxy-agent": "^5.0.0",
     "request": "^2.87.0",
