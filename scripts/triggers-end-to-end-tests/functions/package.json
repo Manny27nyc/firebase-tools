@@ -6,8 +6,8 @@
     "node": "12"
   },
   "dependencies": {
-    "@google-cloud/pubsub": "^1.1.5",
-    "firebase-admin": "^9.3.0",
+    "@google-cloud/pubsub": "^2.0.0",
+    "firebase-admin": "^11.4.1",
     "firebase-functions": "^3.16",
     "@firebase/database-compat": "0.1.2"
   },
